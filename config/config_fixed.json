@@ -1,0 +1,25 @@
+{
+    "pbx": {
+        "ip": "192.168.108.2",
+        "port": 5038,
+        "username": "CRM-integration",
+        "password": "ayad123@152968",
+        "enabled": true
+    },
+    "agent": {
+        "extension": "1017",
+        "callstatus_file": "C:/Users/Warethsattar/Desktop/New folder (16)/CaCallstatus.dat",
+        "auto_clear_delay": 3
+    },
+    "ui": {
+        "theme": "light",
+        "window_geometry": "900x700",
+        "auto_start": false,
+        "minimize_to_tray": true
+    },
+    "logging": {
+        "level": "INFO",
+        "max_files": 30,
+        "max_size_mb": 10
+    }
+}
