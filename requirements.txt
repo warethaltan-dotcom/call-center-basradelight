@@ -1,0 +1,18 @@
+# Listener Professional v4.0 - Requirements
+# Python dependencies for the application
+
+# GUI Framework
+PyQt6>=6.5.0
+
+# Build tools
+PyInstaller>=5.13.0
+
+# Optional dependencies for enhanced functionality
+psutil>=5.9.0          # System monitoring
+requests>=2.31.0       # HTTP requests (if needed)
+cryptography>=41.0.0   # Enhanced encryption (optional)
+
+# Development dependencies (optional)
+pytest>=7.4.0          # Testing framework
+black>=23.0.0           # Code formatting
+flake8>=6.0.0           # Code linting
